@@ -1,0 +1,4 @@
+# Static site: no build step. Paths are relative to the base directory
+# ("fidelityesolutions"), which is set in the Netlify site settings.
+[build]
+  publish = "."
